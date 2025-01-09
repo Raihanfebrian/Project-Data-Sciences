@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Marven Roasters - Coffee Shop Sales Analysis ☕📊
 
 Analisis data penjualan untuk Marven Roasters, sebuah coffee shop fiktif di New York City, menggunakan teknik data science untuk menghasilkan wawasan strategis yang berbasis data.
@@ -22,7 +21,4 @@ Proyek ini bertujuan untuk mengeksplorasi, menganalisis, dan memprediksi data pe
 ## Cara Instalasi 🛠️
 1. Clone repository:
    ```bash
-   git clone [URL-repo-anda]
-=======
-# Project-Data-Sciences
->>>>>>> 12e7cadcc3cacb0b73c5a951c4cd778676871071
+   git clone https://github.com/Raihanfebrian/Project-Data-Sciences.git
